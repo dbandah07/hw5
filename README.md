@@ -14,3 +14,6 @@ The assignment emphasizes **search-based problem solving, recursion, pruning inv
 - Construction of valid solutions when they exist
 - Modular design separating logic and testing
 - Build automation using a Makefile
+
+## Notes
+Completed during Fall 2025. 
